@@ -1,0 +1,59 @@
+{
+  "config": {
+    "RUNS": 1,
+    "RUN_CAP": 20,
+    "PLAYERS": [
+      "heuristic"
+    ],
+    "USE_SAVE": false,
+    "TICK_MS": 80
+  },
+  "summary": [
+    {
+      "player": "heuristic",
+      "runs": 1,
+      "failed": 0,
+      "score": {
+        "mean": 265,
+        "median": 265,
+        "best": 265,
+        "worst": 265,
+        "stdev": 0
+      },
+      "dist": {
+        "mean": 187,
+        "best": 187
+      },
+      "coins": {
+        "mean": 8
+      },
+      "survivedS": {
+        "mean": 8.7,
+        "best": 8.7
+      },
+      "capped": 1,
+      "ai": null
+    }
+  ],
+  "runs": [
+    {
+      "player": "heuristic",
+      "run": 1,
+      "ok": true,
+      "capped": true,
+      "score": 265,
+      "dist": 187,
+      "coins": 8,
+      "survivedS": 8.7,
+      "maxSpeed": 27,
+      "saves": 0,
+      "wallS": 36.1,
+      "lastToasts": [
+        "8",
+        "188 m",
+        "x1"
+      ],
+      "ai": null
+    }
+  ]
+}
