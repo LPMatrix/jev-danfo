@@ -1,0 +1,135 @@
+{
+  "config": {
+    "RUNS": 5,
+    "RUN_CAP": 120,
+    "PLAYERS": [
+      "heuristic"
+    ],
+    "USE_SAVE": false,
+    "TICK_MS": 80
+  },
+  "summary": [
+    {
+      "player": "heuristic",
+      "runs": 5,
+      "failed": 0,
+      "score": {
+        "mean": 2097.8,
+        "median": 2411,
+        "best": 4638,
+        "worst": 83,
+        "stdev": 1673.606811649618
+      },
+      "dist": {
+        "mean": 870.6,
+        "best": 1339
+      },
+      "coins": {
+        "mean": 162.6
+      },
+      "survivedS": {
+        "mean": 70.11,
+        "best": 120
+      },
+      "capped": 2,
+      "ai": null
+    }
+  ],
+  "runs": [
+    {
+      "player": "heuristic",
+      "run": 1,
+      "ok": true,
+      "capped": false,
+      "score": 445,
+      "dist": 334,
+      "coins": 52,
+      "survivedS": 18.65,
+      "maxSpeed": 24,
+      "saves": 0,
+      "wallS": 54.7,
+      "lastToasts": [
+        "2h 20m",
+        "100%",
+        "Set name"
+      ],
+      "ai": null
+    },
+    {
+      "player": "heuristic",
+      "run": 2,
+      "ok": true,
+      "capped": false,
+      "score": 2912,
+      "dist": 1326,
+      "coins": 166,
+      "survivedS": 84.45,
+      "maxSpeed": 26,
+      "saves": 0,
+      "wallS": 222.8,
+      "lastToasts": [
+        "2h 16m",
+        "100%",
+        "Set name"
+      ],
+      "ai": null
+    },
+    {
+      "player": "heuristic",
+      "run": 3,
+      "ok": true,
+      "capped": false,
+      "score": 83,
+      "dist": 138,
+      "coins": 0,
+      "survivedS": 7.45,
+      "maxSpeed": 24,
+      "saves": 0,
+      "wallS": 23,
+      "lastToasts": [
+        "2h 16m",
+        "100%",
+        "Set name"
+      ],
+      "ai": null
+    },
+    {
+      "player": "heuristic",
+      "run": 4,
+      "ok": true,
+      "capped": true,
+      "score": 4638,
+      "dist": 1339,
+      "coins": 393,
+      "survivedS": 120,
+      "maxSpeed": 25,
+      "saves": 0,
+      "wallS": 301.8,
+      "lastToasts": [
+        "393",
+        "1.34 km",
+        "x4"
+      ],
+      "ai": null
+    },
+    {
+      "player": "heuristic",
+      "run": 5,
+      "ok": true,
+      "capped": true,
+      "score": 2411,
+      "dist": 1216,
+      "coins": 202,
+      "survivedS": 120,
+      "maxSpeed": 26,
+      "saves": 0,
+      "wallS": 486.4,
+      "lastToasts": [
+        "202",
+        "1.22 km",
+        "x3"
+      ],
+      "ai": null
+    }
+  ]
+}

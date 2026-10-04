@@ -1,0 +1,192 @@
+{
+  "config": {
+    "RUNS": 8,
+    "RUN_CAP": 60,
+    "PLAYERS": [
+      "heuristic"
+    ],
+    "USE_SAVE": false,
+    "TICK_MS": 80
+  },
+  "summary": [
+    {
+      "player": "heuristic",
+      "runs": 8,
+      "failed": 0,
+      "score": {
+        "mean": 852.375,
+        "median": 675.5,
+        "best": 1683,
+        "worst": 402,
+        "stdev": 418.08908664900594
+      },
+      "dist": {
+        "mean": 697,
+        "best": 785
+      },
+      "coins": {
+        "mean": 35.625
+      },
+      "survivedS": {
+        "mean": 56.2125,
+        "best": 60
+      },
+      "capped": 7,
+      "ai": null
+    }
+  ],
+  "runs": [
+    {
+      "player": "heuristic",
+      "run": 1,
+      "ok": true,
+      "capped": true,
+      "score": 1683,
+      "dist": 785,
+      "coins": 65,
+      "survivedS": 60,
+      "maxSpeed": 24,
+      "saves": 0,
+      "wallS": 134,
+      "lastToasts": [
+        "66",
+        "786 m",
+        "x2"
+      ],
+      "ai": null
+    },
+    {
+      "player": "heuristic",
+      "run": 2,
+      "ok": true,
+      "capped": true,
+      "score": 402,
+      "dist": 525,
+      "coins": 77,
+      "survivedS": 60,
+      "maxSpeed": 24,
+      "saves": 0,
+      "wallS": 126.9,
+      "lastToasts": [
+        "77",
+        "525 m",
+        "x1"
+      ],
+      "ai": null
+    },
+    {
+      "player": "heuristic",
+      "run": 3,
+      "ok": true,
+      "capped": true,
+      "score": 678,
+      "dist": 781,
+      "coins": 12,
+      "survivedS": 60,
+      "maxSpeed": 25,
+      "saves": 0,
+      "wallS": 142.9,
+      "lastToasts": [
+        "12",
+        "782 m",
+        "x2"
+      ],
+      "ai": null
+    },
+    {
+      "player": "heuristic",
+      "run": 4,
+      "ok": true,
+      "capped": false,
+      "score": 447,
+      "dist": 493,
+      "coins": 15,
+      "survivedS": 29.7,
+      "maxSpeed": 24,
+      "saves": 0,
+      "wallS": 73.1,
+      "lastToasts": [
+        "13h 17m",
+        "100%",
+        "Set name"
+      ],
+      "ai": null
+    },
+    {
+      "player": "heuristic",
+      "run": 5,
+      "ok": true,
+      "capped": true,
+      "score": 1044,
+      "dist": 769,
+      "coins": 50,
+      "survivedS": 60,
+      "maxSpeed": 25,
+      "saves": 0,
+      "wallS": 155.5,
+      "lastToasts": [
+        "50",
+        "769 m",
+        "x2"
+      ],
+      "ai": null
+    },
+    {
+      "player": "heuristic",
+      "run": 6,
+      "ok": true,
+      "capped": true,
+      "score": 673,
+      "dist": 743,
+      "coins": 0,
+      "survivedS": 60,
+      "maxSpeed": 26,
+      "saves": 0,
+      "wallS": 147,
+      "lastToasts": [
+        "0",
+        "743 m",
+        "x3"
+      ],
+      "ai": null
+    },
+    {
+      "player": "heuristic",
+      "run": 7,
+      "ok": true,
+      "capped": true,
+      "score": 611,
+      "dist": 735,
+      "coins": 12,
+      "survivedS": 60,
+      "maxSpeed": 24,
+      "saves": 0,
+      "wallS": 148.4,
+      "lastToasts": [
+        "12",
+        "736 m",
+        "x4"
+      ],
+      "ai": null
+    },
+    {
+      "player": "heuristic",
+      "run": 8,
+      "ok": true,
+      "capped": true,
+      "score": 1281,
+      "dist": 745,
+      "coins": 54,
+      "survivedS": 60,
+      "maxSpeed": 24,
+      "saves": 0,
+      "wallS": 944.2,
+      "lastToasts": [
+        "54",
+        "746 m",
+        "x2"
+      ],
+      "ai": null
+    }
+  ]
+}

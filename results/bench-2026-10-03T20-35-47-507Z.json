@@ -1,0 +1,116 @@
+{
+  "config": {
+    "RUNS": 4,
+    "RUN_CAP": 120,
+    "PLAYERS": [
+      "heuristic"
+    ],
+    "USE_SAVE": false,
+    "TICK_MS": 80
+  },
+  "summary": [
+    {
+      "player": "heuristic",
+      "runs": 4,
+      "failed": 0,
+      "score": {
+        "mean": 816,
+        "median": 120,
+        "best": 2920,
+        "worst": 104,
+        "stdev": 1214.7625282333993
+      },
+      "dist": {
+        "mean": 386.25,
+        "best": 1107
+      },
+      "coins": {
+        "mean": 67
+      },
+      "survivedS": {
+        "mean": 27.362499999999997,
+        "best": 87.9
+      },
+      "capped": 0,
+      "ai": null
+    }
+  ],
+  "runs": [
+    {
+      "player": "heuristic",
+      "run": 1,
+      "ok": true,
+      "capped": false,
+      "score": 120,
+      "dist": 139,
+      "coins": 6,
+      "survivedS": 6.85,
+      "maxSpeed": 27,
+      "saves": 0,
+      "wallS": 27.1,
+      "lastToasts": [
+        "2h 29m",
+        "100%",
+        "Set name"
+      ],
+      "ai": null
+    },
+    {
+      "player": "heuristic",
+      "run": 2,
+      "ok": true,
+      "capped": false,
+      "score": 2920,
+      "dist": 1107,
+      "coins": 256,
+      "survivedS": 87.9,
+      "maxSpeed": 43,
+      "saves": 0,
+      "wallS": 213,
+      "lastToasts": [
+        "2h 26m",
+        "100%",
+        "Set name"
+      ],
+      "ai": null
+    },
+    {
+      "player": "heuristic",
+      "run": 3,
+      "ok": true,
+      "capped": false,
+      "score": 120,
+      "dist": 139,
+      "coins": 6,
+      "survivedS": 6.85,
+      "maxSpeed": 27,
+      "saves": 0,
+      "wallS": 22.1,
+      "lastToasts": [
+        "2h 25m",
+        "100%",
+        "Set name"
+      ],
+      "ai": null
+    },
+    {
+      "player": "heuristic",
+      "run": 4,
+      "ok": true,
+      "capped": false,
+      "score": 104,
+      "dist": 160,
+      "coins": 0,
+      "survivedS": 7.85,
+      "maxSpeed": 27,
+      "saves": 0,
+      "wallS": 33,
+      "lastToasts": [
+        "2h 25m",
+        "100%",
+        "Set name"
+      ],
+      "ai": null
+    }
+  ]
+}
